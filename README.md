@@ -25,9 +25,9 @@ Open your terminal and run
 
 ## Authors
 
-* **Brandon Morelli** - *Original Code* - [bmorelli25]https://github.com/bmorelli25)
+* **Brandon Morelli** - *Original Code* - [bmorelli25](https://github.com/bmorelli25)
 
-* **Jason Welter** - *New Code* - [8BitGamer]https://github.com/8bitgamer)
+* **Jason Welter** - *New Code* - [8BitGamer](https://github.com/8bitgamer)
 
 ## License
 
